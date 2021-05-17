@@ -1,2 +1,2 @@
 # s3CensusData
-## Loading Census data to AWS s3 bucket using boto3 in python
+## Loading Census shape files to AWS s3 bucket using boto3 in python
